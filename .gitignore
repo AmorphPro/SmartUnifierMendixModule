@@ -1,0 +1,7 @@
+# ignore everything
+/*
+# but do not ignore ...
+!/package
+!.mpk
+!.gitignore
+# ignore the following
